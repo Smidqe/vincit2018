@@ -1,0 +1,22 @@
+[
+    {
+        "view-file": "Home",
+        "path": "/"
+    },
+    {
+        "view-file": "About",
+        "path": "/about"
+    },
+    {
+        "view-file": "Add",
+        "path": "/add"
+    },
+    {
+        "view-file": "Sights",
+        "path": "/sights"
+    },
+    {
+        "view-file": "Species",
+        "path": "/species"
+    }
+]
